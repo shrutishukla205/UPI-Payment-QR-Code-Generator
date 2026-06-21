@@ -59,6 +59,8 @@ python takepaymentonline.py
 ✅ Google Pay QR Code
 
 
+
+
 🎯 **Use Cases**
 
 💰 Digital Payment Sharing
@@ -68,6 +70,8 @@ python takepaymentonline.py
 🛒 Online Transactions
 
 📱 Quick UPI Payment Collection
+
+
 
 
 💡 **Future Improvements**
