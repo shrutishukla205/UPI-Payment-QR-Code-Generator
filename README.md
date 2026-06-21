@@ -68,9 +68,13 @@ python takepaymentonline.py
 💡 **Future Improvements**
 
 GUI version using Tkinter / Streamlit
+
 Custom color QR codes
+
 Logo embedding in QR code
+
 Download button in web app
+
 
 
 
