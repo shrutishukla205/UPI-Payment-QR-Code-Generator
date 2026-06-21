@@ -39,11 +39,16 @@ UPI-Payment-QR-Code-Generator/
 ├── google_pay_qr.png
 └── README.md
 
+
 ## 🚀 How to Run
 Install Required Library
+
 pip install qrcode[pil]
+
 Run the Project
+
 python takepaymentonline.py
+
 
 ## 📸 Sample Output
 
