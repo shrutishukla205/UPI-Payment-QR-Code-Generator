@@ -1,4 +1,4 @@
-# UPI-Payment-QR-Code-Generator
+# UPI-Payment-QR-Code-Generator using python
 Generate UPI payment QR codes for PhonePe, Paytm, and Google Pay using Python.
 ## 📝 About
 
@@ -54,7 +54,7 @@ python takepaymentonline.py
 ✅ Google Pay QR Code
 
 
-🎯 Use Cases
+🎯 **Use Cases**
 
 💰 Digital Payment Sharing
 
@@ -64,8 +64,14 @@ python takepaymentonline.py
 
 📱 Quick UPI Payment Collection
 
-👩‍💻 Author
 
-Shruti Shukla
+💡 **Future Improvements**
+
+GUI version using Tkinter / Streamlit
+Custom color QR codes
+Logo embedding in QR code
+Download button in web app
+
+
 
 
